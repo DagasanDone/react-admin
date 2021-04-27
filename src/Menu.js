@@ -66,9 +66,9 @@ export default class Menu extends Component {
           </li>
           <li className="nav-item has-treeview">
             <a href="#" className="nav-link">
-              <i className="nav-icon fas fa-copy" />
+              {/* <i className="nav-icon fas fa-copy" /> */}
               <p>
-                Class Options
+            {/* Dagasan kjhiugjjilgl */}
                 <i className="fas fa-angle-left right" />
                 <span className="badge badge-info right">6</span>
               </p>
