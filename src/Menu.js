@@ -68,7 +68,7 @@ export default class Menu extends Component {
             <a href="#" className="nav-link">
               <i className="nav-icon fas fa-copy" />
               <p>
-                Layout Options
+                Class Options
                 <i className="fas fa-angle-left right" />
                 <span className="badge badge-info right">6</span>
               </p>
